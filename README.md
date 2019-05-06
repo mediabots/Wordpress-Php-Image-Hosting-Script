@@ -8,11 +8,11 @@ Wordpress/Php image hosting script (without any plugin)
 
 Any Wordpress hosting 
 
-or 
+OR 
 
 Any Shared hosting with cPanel/WebMin/Plesk/DirectAdmin control panel 
 
-or 
+OR 
 
 Any VPS/Dedicatred sever with Apache/Nginx web server installed + MySQL database management system installed
 
@@ -65,9 +65,9 @@ New registered user's role : Editor
 
 Registered users can view only his/her posts and comments
 
-Post link format set to www.sitename.com/post-name ; where 'post-name' would be unique random (12 characters long)
+Post link format set to sitename.com/post-name ; where 'post-name' would be unique random (12 characters long)
 
-Direct Image link format set to www.sitename.com/files/image-name.format ; where  'image-name' would be unique random (16 characters long)
+Direct Image link format set to sitename.com/files/image-name.format ; where  'image-name' would be unique random (16 characters long)
 
 Regular Users would not be able to change URL of an post & image 
 
@@ -79,6 +79,16 @@ And many more...
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=FnxkgjyFhrA" target="_blank"><img src="http://img.youtube.com/vi/FnxkgjyFhrA/0.jpg" 
 alt="[Wordpress/Php] Image Hosting script or theme (Free)" width="480" height="360" border="10" /></a>
+
+OR
+
+http://bit.ly/Wordpress-Image-Hosting-theme
+
+---
+
+## Live Demo site
+
+<a href="" target="_blank">https://mediabots.cf</a>
 
 ---
 
