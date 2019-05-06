@@ -65,9 +65,9 @@ New registered user's role : Editor
 
 Registered users can view only his/her posts and comments
 
-Post link format set to sitename.com/post-name ; where 'post-name' would be unique random (12 characters long)
+Post link format set to www.sitename.com/post-name ; where 'post-name' would be unique random (12 characters long)
 
-Direct Image link format set to sitename.com/files/image-name.format ; where  'image-name' would be unique random (16 characters long)
+Direct Image link format set to www.sitename.com/files/image-name.format ; where  'image-name' would be unique random (16 characters long)
 
 Regular Users would not be able to change URL of an post & image 
 
