@@ -82,16 +82,16 @@ alt="[Wordpress/Php] Image Hosting script or theme (Free)" width="480" height="3
 
 OR
 
-http://bit.ly/Wordpress-Image-Hosting-theme
+<a href="http://bit.ly/Wordpress-Image-Hosting-theme" target="_blank">http://bit.ly/Wordpress-Image-Hosting-theme</a>
 
 
 ---
 
 ## How to install & run the script?
 
-If you have cPnael access then with the help of this Video Tutorial: https://youtu.be/5sqUNSU6e_A , you can install Wordpress (through softaculous application). After that WATCH DEMO VIDEO OF THIS PAGE.
+If you have cPnael access then with the help of this Video Tutorial: <a href="https://youtu.be/5sqUNSU6e_A" target="_blank">youtube.com/watch?v=5sqUNSU6e_A</a> , you can install Wordpress (through softaculous application). After that WATCH DEMO VIDEO OF THIS PAGE.
 
-if you have a VPS or Dedicated server/box then use my <a href="https://github.com/mediabots/ubuntu_-_lamp-kubuntu_desktop-wordpress-ssl">this shell script</a> to automatically install Wordpress [Watch Demo Video inside of the link]. After that WATCH DEMO VIDEO OF THIS PAGE.
+if you have a VPS or Dedicated server/box then use my <a href="https://github.com/mediabots/ubuntu_-_lamp-kubuntu_desktop-wordpress-ssl" target="_blank">this shell script</a> to automatically install Wordpress [Watch Demo Video inside of the link]. After that WATCH DEMO VIDEO OF THIS PAGE.
 
 ---
 
