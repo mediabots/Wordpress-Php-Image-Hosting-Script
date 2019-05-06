@@ -105,4 +105,3 @@ if you have a VPS or Dedicated server/box then use my <a href="https://github.co
 
 stackexchange.com, stackoverflow.com, w3schools.com, developer.wordpress.org,  wpmudev.org, sitepoint.com, 
 wpbeginner.com, codex.wordpress.org,  code.tutsplus.com
-
