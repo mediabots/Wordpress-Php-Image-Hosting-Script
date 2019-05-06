@@ -14,7 +14,7 @@ Any Shared hosting with cPanel/WebMin/Plesk/DirectAdmin control panel
 
 or 
 
-VPS/Dedicatred sever with Apache or Nginx web server installed, MySQL database management system installed
+Any VPS/Dedicatred sever with Apache/Nginx web server installed + MySQL database management system installed
 
 ---
 
