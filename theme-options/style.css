@@ -1,0 +1,23 @@
+/*
+Theme Name: Settings API
+Theme URI: http://www.onedesigns.com/tutorials/how-to-create-a-wordpress-theme-options-page
+Description: A Twenty Ten Child Theme using the Settings API
+Version: 1.0
+Author: One Designs
+Author URI: http://www.onedesigns.com/
+Template: twentyten
+
+License: GNU General Public License v2.0
+License URI: license.txt
+*/
+
+@import url(../twentyten/style.css);
+
+.featured, .intro {
+	background: #f2f7fc;
+	border-top: 4px solid #000;
+	margin-left: -20px;
+	margin-right: -20px;
+	margin-bottom: 50px;
+	padding: 18px 20px;
+}
