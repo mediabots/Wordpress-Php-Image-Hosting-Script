@@ -8,11 +8,11 @@ Wordpress/Php image hosting script (without any plugin)
 
 * Compatibility :
 
- ⋅⋅⋅Wordpress Any version
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wordpress Any version
  
- ⋅⋅⋅Php upto ersion 7.0
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Php upto ersion 7.0
  
- ⋅⋅⋅MySQL any version
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL any version
 
 
 Any Wordpress hosting 
