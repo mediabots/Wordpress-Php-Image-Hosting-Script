@@ -7,11 +7,14 @@ Wordpress/Php image hosting script (without any plugin)
 ## Requirements
 
 * Compatibility :
- Wordpress Any version
- Php upto ersion 7.0
- MySQL any version
 
-*
+ ⋅⋅⋅Wordpress Any version
+ 
+ ⋅⋅⋅Php upto ersion 7.0
+ 
+ ⋅⋅⋅MySQL any version
+
+
 Any Wordpress hosting 
 
 OR 
