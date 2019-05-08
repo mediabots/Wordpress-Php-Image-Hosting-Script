@@ -98,7 +98,7 @@ OR
 
 ## How to install & run the script?
 
-**Download URL :
+** Download URL :
 https://github.com/mediabots/Wordpress-Php-Image-Hosting-Script/archive/master.zip
 
 If you have cPnael access then with the help of this Video Tutorial: <a href="https://youtu.be/5sqUNSU6e_A" target="_blank">youtube.com/watch?v=5sqUNSU6e_A</a> , you can install Wordpress (through softaculous application). After that WATCH DEMO VIDEO OF THIS PAGE.
