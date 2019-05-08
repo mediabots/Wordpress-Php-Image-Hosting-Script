@@ -1,0 +1,75 @@
+<?php
+/**
+ * The template for displaying comments
+ *
+ * This is the template that displays the area of the page that contains both the current comments
+ * and the comment form.
+ *
+ * @link https://codex.wordpress.org/Template_Hierarchy
+ *
+ * @package imagegridly
+ */
+
+/*
+ * If the current post is protected by a password and
+ * the visitor has not yet entered the password we will
+ * return early without loading the comments.
+ */
+if ( post_password_required() ) {
+	return;
+}
+?>
+
+	<?php
+	// You can start editing here -- including this comment!
+	if ( have_comments() ) : ?>
+		<div id="comments" class="fbox comments-area">
+		<h2 class="comments-title">
+			<?php
+			$comment_count = get_comments_number();
+			if ( 1 === $comment_count ) {
+				printf(
+					/* translators: 1: title. */
+					esc_html_e( 'One thought', 'imagegridly' ),
+					'<span></span>'
+				);
+			} else {
+				printf( // WPCS: XSS OK.
+					/* translators: 1: comment count number, 2: title. */
+					esc_html( _nx( '%1$s thought', '%1$s thoughts', $comment_count, 'comments title', 'imagegridly' ) ),
+					number_format_i18n( $comment_count ),
+					'<span></span>'
+				);
+			}
+			?>
+		</h2><!-- .comments-title -->
+
+		<?php the_comments_navigation(); ?>
+
+		<ol class="comment-list">
+			<?php
+				wp_list_comments( array(
+					'style'      => 'ol',
+					'short_ping' => true,
+				) );
+			?>
+		</ol><!-- .comment-list -->
+
+		<?php the_comments_navigation();
+
+		// If comments are closed and there are comments, let's leave a little note, shall we?
+		if ( ! comments_open() ) : ?>
+			<p class="no-comments"><?php esc_html_e( 'Comments are closed.', 'imagegridly' ); ?></p>
+		</div><!-- #comments -->
+		<?php
+		endif;
+
+	endif; // Check for have_comments().
+if(is_user_logged_in()):
+	if (! have_comments())
+		echo '<div id="comments" class="fbox comments-area">';
+	comment_form();
+	if (! have_comments())
+		echo '</div><!-- #comments -->';
+endif;
+?>
