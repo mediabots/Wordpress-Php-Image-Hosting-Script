@@ -17,6 +17,7 @@ Wordpress/Php image hosting script (without any plugin)
 * Hosting :
 
 >Any Wordpress hosting 
+
 >OR 
 
 >Any Shared hosting with cPanel/WebMin/Plesk/DirectAdmin control panel 
