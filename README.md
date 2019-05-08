@@ -6,6 +6,12 @@ Wordpress/Php image hosting script (without any plugin)
 
 ## Requirements
 
+### Compatibility
+ Wordpress Any version
+ Php upto ersion 7.0
+ MySQL any version
+
+
 Any Wordpress hosting 
 
 OR 
@@ -97,7 +103,7 @@ if you have a VPS or Dedicated server/box then use my <a href="https://github.co
 
 ## Live Demo site
 
-<a href="" target="_blank">https://mediabots.cf</a>
+<a href="https://mediabots.cf" target="_blank">https://mediabots.cf</a>
 
 ---
 
