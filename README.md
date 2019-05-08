@@ -14,16 +14,16 @@ Wordpress/Php image hosting script (without any plugin)
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL any version
 
+* Compatibility :
+>Any Wordpress hosting 
 
-Any Wordpress hosting 
+>OR 
 
-OR 
+>Any Shared hosting with cPanel/WebMin/Plesk/DirectAdmin control panel 
 
-Any Shared hosting with cPanel/WebMin/Plesk/DirectAdmin control panel 
+>OR 
 
-OR 
-
-Any VPS/Dedicatred sever with Apache/Nginx web server installed + MySQL database management system installed
+>Any VPS/Dedicatred sever with Apache/Nginx web server installed + MySQL database management system installed
 
 ---
 
@@ -98,8 +98,7 @@ OR
 
 ## How to install & run the script?
 
-** Download URL :
-https://github.com/mediabots/Wordpress-Php-Image-Hosting-Script/archive/master.zip
+** Theme Download URL : ** https://github.com/mediabots/Wordpress-Php-Image-Hosting-Script/archive/master.zip
 
 If you have cPnael access then with the help of this Video Tutorial: <a href="https://youtu.be/5sqUNSU6e_A" target="_blank">youtube.com/watch?v=5sqUNSU6e_A</a> , you can install Wordpress (through softaculous application). After that WATCH DEMO VIDEO OF THIS PAGE.
 
