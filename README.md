@@ -1,6 +1,12 @@
-# [Wordpress/Php] Image Hosting script/theme (free, easy to setup, no plugin required)
+# [Wordpress/Php] Image Hosting Script/Theme for image sharing (free, easy to setup, no plugin required)
 
-Wordpress/Php image hosting script (without any plugin)
+This theme dedicated to photo/image lovers. 
+
+Now you can upload & share your beautiful moments with the help of this free wordpress theme, which is actually an "Image Hosting Script". 
+
+Made fully in Php/Wordpress. 
+
+[Note- No plugin would be required!]
 
 ---
 
