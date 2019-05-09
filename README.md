@@ -114,7 +114,7 @@ OR
 
 ## Live Demo site
 
-<a href="https://mediabots.cf" target="_blank">https://mediabots.cf</a>
+https://psd2wp.net/
 
 ---
 
