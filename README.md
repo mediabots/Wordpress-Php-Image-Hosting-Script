@@ -30,31 +30,31 @@ Wordpress/Php image hosting script (without any plugin)
 
 ## Features:-
 
-Multiple file uploading supported : At a time 25 file images could be uploaded
+* Multiple file uploading supported : At a time 25 file images could be uploaded
 
-URL Uploading supported
+* URL Uploading supported
 
-User can choose the image/upload type : Normal content or Adult content
+* User can choose the image/upload type : Normal content or Adult content
 
-Thumbnail (of width : 300px) would be generated automatically
+* Thumbnail (of width : 300px) would be generated automatically
 
-"Click to continue to Images(s)" functionality available in Options/Settings
+* "Click to continue to Images(s)" functionality available in Options/Settings
 
-Only Registered Users can Like an Image/Post & make a Comment
+* Only Registered Users can Like an Image/Post & make a Comment
 
-Image/Post Views counter
+* Image/Post Views counter
 
-Custom Sign up page where an user can choose his own Password
+* Custom Sign up page where an user can choose his own Password
 
-Custom Sign in page
+* Custom Sign in page
 
-"Contact us" Form would forward message to admin email
+* "Contact us" Form would forward message to admin email
 
-After successfully uploading image(s), user can share it with three available formats(Direct URL,BBCode,HTML).
+* After successfully uploading image(s), user can share it with three available formats(Direct URL,BBCode,HTML).
 
-Back to Top - javascript button
+* Back to Top - javascript button
 
-Unregistered users can upload too
+* Unregistered users can upload too
 
 etc
 
@@ -69,17 +69,17 @@ Allowed image extension : "jpg", "jpeg", "jpe", "png", "bmp", "gif", "ico", "tif
 
 ## Wordpress default features modified:-
 
-Enable Any one can register option
+* Enable Any one can register option
 
-New registered user's role : Editor
+* New registered user's role : Editor
 
-Registered users can view only his/her posts and comments
+* Registered users can view only his/her posts and comments
 
-Post link format set to MySiteName.com/post-name ; where 'post-name' would be unique random (12 characters long)
+* Post link format set to MySiteName.com/post-name ; where 'post-name' would be unique random (12 characters long)
 
-Direct Image link format set to MySiteName.com/files/image-name.format ; where  'image-name' would be unique random (16 characters long)
+* Direct Image link format set to MySiteName.com/files/image-name.format ; where  'image-name' would be unique random (16 characters long)
 
-Regular Users would not be able to change URL of an post & image 
+* Regular Users would not be able to change URL of an post & image 
 
 And many more...
 
