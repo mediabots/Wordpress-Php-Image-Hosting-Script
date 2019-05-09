@@ -1,4 +1,4 @@
-# [Wordpress/Php] Image Hosting Script/Theme for image sharing (easy to setup)
+# [Wordpress/Php] Image Hosting Script/Theme for sharing images (easy to setup)
 
 This Wordpress theme dedicated to photo/image lovers. 
 
