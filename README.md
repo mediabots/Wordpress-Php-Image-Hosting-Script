@@ -16,7 +16,7 @@ Script Made fully in Php/Wordpress.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wordpress Any version
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Php upto ersion 7.0
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Php upto version 7.0
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL any version
 
